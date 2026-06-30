@@ -1,0 +1,2 @@
+# 3ac37b42f1ed7e5f-developer-tools-user-authentic
+You shouldn't need a second monitor of browser bookmarks to have the information you need right in your browser.  Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Developer Tools User Authentication And Access Control — full
